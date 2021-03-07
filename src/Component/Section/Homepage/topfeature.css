@@ -1,0 +1,74 @@
+@media only screen and (min-width: 1200px) {
+    .currency {
+        width: 95px;
+        height: 16px;
+        margin: 0 113px 21px 0;
+        font-family: RalewayRoman;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    #dropdown {
+        /* width: 145px; */
+        height: 19px;
+        margin: -20px 10px 20px 0px;
+        font-family: RalewayRoman;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+        border-style: none;
+    }
+    .below {
+        margin-top: 20px;
+    }
+    #oval {
+        width: 68px;
+        height: 68px;
+        /* margin: 0 296px 14px 0px; */
+        /* padding: 13px 12px 11px 19px; */
+        padding-left: 35px;
+        padding-top: 10px;
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+        background-color: #4da8bb;
+    }
+    #advance {
+        width: 133px;
+        height: 14px;
+        margin: 16px 10px 8px 1px;
+        font-family: RalewayRoman;
+        font-size: 12px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .radio {
+        width: 46px;
+        height: 14px;
+        margin: 0 3px;
+        font-family: RalewayRoman;
+        font-size: 12px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .radio-group {
+        margin-top: 18px;
+    }
+    .head-radio {
+        margin-right: 16px;
+    }
+}

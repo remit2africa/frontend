@@ -1,0 +1,66 @@
+@media only screen and (min-width: 1200px) {
+    #main-rate {
+        margin-top: 40px;
+    }
+    .rate-logo {
+        width: 204px;
+        height: 55px;
+        margin: 0px 0px 40px 0;
+    }
+    .rate-exchange {
+        margin-top: -30px;
+    }
+    .rate-exchange #amount {
+        width: 70px;
+        height: 20px;
+        margin: 0 5px 5px 0;
+        font-family: RalewayRoman;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .rate-exchange #exchanged {
+        width: 235px;
+        height: 46px;
+        margin: 9px 0 0;
+        font-family: RalewayRoman;
+        font-size: 36px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    .rate-exchange #rate {
+        width: 64px;
+        height: 14px;
+        margin: 0 0 0 6px;
+        font-family: RalewayRoman;
+        font-size: 12px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #31de59;
+    }
+    .rate-exchange #trans-speed {
+        width: 118px;
+        height: 14px;
+        margin: 6px 147px 11px 0px;
+        opacity: 0.5;
+        font-family: RalewayRoman;
+        font-size: 12px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+}

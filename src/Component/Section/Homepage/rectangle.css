@@ -1,0 +1,13 @@
+#main-rectangle {
+    padding: 75px 23px 18px 61px;
+    border-radius: 29px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #ffffff;
+}
+
+@media only screen and (min-width: 1200px) {
+    #main-rectangle {
+        margin-left: 243px;
+        margin-right: 232px;
+    }
+}

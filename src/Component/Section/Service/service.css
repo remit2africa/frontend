@@ -1,0 +1,18 @@
+@media only screen and (min-width: 1200px) {
+    #main-service {
+        width: 965px;
+        height: 425px;
+        margin-top: 46px;
+        /* margin: 46px 232px 71px 233px; */
+        margin-left: 232px;
+        font-family: RalewayRoman;
+        font-size: 21px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: justify;
+        color: #2d3e51;
+    }
+}

@@ -1,0 +1,37 @@
+@media only screen and (min-width: 1200px) {
+    #main-footer {
+        width: 100%;
+        max-height: 100%;
+        margin: 71px 0px 0px 0px;
+        margin-bottom: -25px;
+        padding: 20px 20px 0 0px;
+        background-color: #ebebeb;
+        position: sticky;
+    }
+    #terms {
+        width: 238px;
+        height: 32px;
+        /* margin: 0 449px 0 0; */
+        font-family: RalewayRoman;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+    #copyright {
+        width: 274px;
+        /* height: 16px; */
+        /* margin: 0 0 16px 449px; */
+        font-family: RalewayRoman;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #000000;
+    }
+}
